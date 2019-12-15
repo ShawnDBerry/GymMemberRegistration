@@ -1,8 +1,10 @@
-package com.example.gymmemberregistration;
+package com.example.gymmemberregistration.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.gymmemberregistration.R;
 
 public class MainActivity extends AppCompatActivity {
 

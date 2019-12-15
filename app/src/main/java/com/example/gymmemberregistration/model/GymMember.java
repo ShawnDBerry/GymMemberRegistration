@@ -6,6 +6,7 @@ import android.os.Parcelable;
 public class GymMember implements Parcelable {
     private String gymMemberId;
     private String gymMemberName;
+    private String gymMemberPlan;
 
     protected GymMember(Parcel in) {
         gymMemberId = in.readString();
@@ -37,7 +38,6 @@ public class GymMember implements Parcelable {
         dest.writeString(gymMemberPlan);
     }
 
-    private String gymMemberPlan;
 
     public GymMember(String gymMemberId, String gymMbemberName, String gymMemberPlan) {
         this.gymMemberId = gymMemberId;

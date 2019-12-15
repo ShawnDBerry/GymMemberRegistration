@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GymMemberRegistration</string>
+    <string name="gym_member_id_text">Gym Member ID:</string>
+    <string name="gym_member_name_text">Gym Member Name:</string>
+    <string name="member_details_text">Member Details</string>
+    <string name="gym_member_plan_text">Gym Member Plan:</string>
+    <string name="register_member_button_text">Register Member</string>
+    <string name="register_gym_member_text">Register Gym Member</string>
+    <string name="register_gym_member_name_text">Enter Your Name</string>
+    <string name="register_gym_member_plan_text">Enter Your Plan</string>
 </resources>
