@@ -8,4 +8,6 @@
     <string name="register_gym_member_text">Register Gym Member</string>
     <string name="register_gym_member_name_text">Enter Your Name</string>
     <string name="register_gym_member_plan_text">Enter Your Plan</string>
+    <string name="enter_your_user_id_text">Enter Your User ID:</string>
+    <string name="active_member_list_text">Active Member List</string>
 </resources>

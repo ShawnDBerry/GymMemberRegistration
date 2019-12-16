@@ -53,11 +53,11 @@ public class GymMember implements Parcelable {
         this.gymMemberId = gymMemberId;
     }
 
-    public String getGymMbemberName() {
+    public String getGymMemberName() {
         return gymMemberName;
     }
 
-    public void setGymMbemberName(String gymMbemberName) {
+    public void setGymMemberName(String gymMbemberName) {
         this.gymMemberName = gymMbemberName;
     }
 
